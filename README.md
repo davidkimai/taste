@@ -10,4 +10,4 @@
 - domain expert leverage via context scaffolds
 - self referential circuits/activations in response to consciousness questions
 - models such as gemini experiencing behavioral analogues of common human states (anxiety spiral, depressive loops, etc)
-- benchmark classifiers on ability to identify underlying behavioral/psychological intent 
+- benchmark classifiers/models on ability to identify underlying implicit behavioral/psychological heuristics of human user over just adversarial intent
